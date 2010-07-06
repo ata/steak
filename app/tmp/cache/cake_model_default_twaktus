@@ -1,0 +1,2 @@
+1268375421
+a:3:{s:8:"WAKTU_ID";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:3:"key";s:7:"primary";}s:11:"WAKTU_BEGIN";a:4:{s:4:"type";s:4:"time";s:4:"null";b:1;s:7:"default";N;s:6:"length";N;}s:9:"WAKTU_END";a:4:{s:4:"type";s:4:"time";s:4:"null";b:1;s:7:"default";N;s:6:"length";N;}}

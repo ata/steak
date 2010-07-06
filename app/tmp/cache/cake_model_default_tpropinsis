@@ -1,0 +1,2 @@
+1268375420
+a:2:{s:7:"KD_PROP";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:10;s:3:"key";s:7:"primary";}s:9:"PROP_NAME";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:35;}}

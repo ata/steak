@@ -1,0 +1,2 @@
+1268375421
+a:4:{s:2:"id";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:20;s:3:"key";s:7:"primary";}s:13:"tmahasiswa_id";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:20;}s:14:"kelas_ujian_id";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:20;}s:7:"present";a:4:{s:4:"type";s:41:"enum('Belum Ujian','Hadir','Tidak Hadir')";s:4:"null";b:0;s:7:"default";s:11:"Belum Ujian";s:6:"length";i:11;}}

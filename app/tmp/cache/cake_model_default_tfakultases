@@ -1,0 +1,2 @@
+1268375420
+a:4:{s:2:"id";a:5:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:5;s:3:"key";s:7:"primary";}s:4:"kode";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:32;}s:4:"nama";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:255;}s:7:"nama_en";a:4:{s:4:"type";s:6:"string";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:255;}}
